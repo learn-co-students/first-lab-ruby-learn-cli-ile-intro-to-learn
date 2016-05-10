@@ -34,7 +34,7 @@ The failure reads: `Make sure you have added a new file or edited edit-me.txt`
 
 ![learn-submit](https://s3.amazonaws.com/learn-verified/LearnSubmit2.png)
 
-You should see this lab pass on Learn.co. Congratulations! You've just solved your first lab. 
+You should see this lab pass on Learn.co. Congratulations! You've just solved your first lab.
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/first-lab-ruby-learn-cli-ile'>First Lab</a> on Learn.co and start learning to code for free.</p>
