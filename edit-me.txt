@@ -1,0 +1,1 @@
+expect((new_file_made || file_edited)).to be_truthy
