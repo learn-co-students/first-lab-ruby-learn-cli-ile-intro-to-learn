@@ -1,4 +1,4 @@
-require 'spec_helper' #
+require 'spec_helper'
 
 describe 'First Lab:' do
   it 'you made a change' do
