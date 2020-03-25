@@ -3,5 +3,3 @@ Hello, world!
 My name is Raymond!
 
 This is me learning how to use learn!
-
-
